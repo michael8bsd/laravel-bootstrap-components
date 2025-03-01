@@ -1,8 +1,2 @@
-You need following in the PHP version to execute it:
-
-1) Composer
-Visit https://getcomposer.org/download/ and download the Composer Setup file
-  
-2) aws-sdk-php
-To install it, run the following command in terminal
-composer require aws/aws-sdk-php
+# dotfiles
+A dumping ground for my personal dotfiles that keep my computing life organized and productive. If you find any of this useful, go ahead and borrow any or all of it.
