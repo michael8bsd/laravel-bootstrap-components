@@ -1,5 +1,14 @@
 {
   "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "editor.fontFamily": "FiraCode-Retina, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
@@ -63,7 +72,6 @@
   "editor.smoothScrolling": false,
   "editor.cursorBlinking": "phase",
   "editor.stickyScroll.enabled": true,
-  "workbench.activityBar.location": "hidden",
   "workbench.editor.showTabs": "single",
   "terminal.integrated.fontSize": 16,
   "editor.cursorSmoothCaretAnimation": "on",
@@ -78,7 +86,7 @@
   },
   "editor.fontVariations": false,
   "workbench.fontAliasing": "antialiased",
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "files.autoSaveDelay": 100,
   "editor.lineNumbers": "off"
 }
