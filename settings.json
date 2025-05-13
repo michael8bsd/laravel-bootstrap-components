@@ -1,6 +1,6 @@
 {
   "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
-  "editor.fontFamily": "\"Dank Mono\",\"Cascadia Code\",Hack,\"Fira Code\",\"Monaspace Neon\",\"Monocraft\",\"Cascadia Code\",\"Consolas\",Hack",
+  "editor.fontFamily": "Victor Mono",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
   "editor.renderWhitespace": "none",
