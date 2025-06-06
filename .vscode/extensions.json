@@ -1,10 +1,8 @@
 {
   "recommendations": [
-    "octref.vetur",
     "rangav.vscode-thunder-client",
     "ecmel.vscode-html-css",
     "AnbuselvanRocky.bootstrap5-vscode",
-    "Vue.volar",
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "formulahendry.auto-close-tag",
@@ -15,8 +13,6 @@
     "raillyhugo.one-hunter",
     "whizkydee.material-palenight-theme",
     "ahmadawais.shades-of-purple",
-    "bradlc.vscode-tailwindcss",
-    "stivo.tailwind-fold",
     "enkia.tokyo-night",
     "raunofreiberg.vesper"
   ]
