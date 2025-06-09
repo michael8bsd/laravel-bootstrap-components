@@ -4,6 +4,10 @@
     "source.fixAll": "explicit"
   },
   "editor.formatOnSave": true,
+  "C_Cpp.clang_format_style": "file",
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.glyphMargin": false,
   "editor.folding": false,
