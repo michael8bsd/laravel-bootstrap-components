@@ -1,6 +1,8 @@
 {
   "recommendations": [
-    "dsznajder.es7-react-js-snippets",
+    "ms-vscode.cpptools",
+    "xaver.clang-format",
+    "formulahendry.code-runner",
     "formulahendry.auto-rename-tag",
     "rangav.vscode-thunder-client",
     "ecmel.vscode-html-css",
@@ -9,8 +11,6 @@
     "esbenp.prettier-vscode",
     "formulahendry.auto-close-tag",
     "formulahendry.auto-complete-tag",
-    "steoates.autoimport",
-    "ms-vscode.vscode-typescript-next",
     "raillyhugo.one-hunter",
     "whizkydee.material-palenight-theme",
     "ahmadawais.shades-of-purple",
