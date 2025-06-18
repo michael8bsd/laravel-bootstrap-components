@@ -4,9 +4,8 @@
     "source.fixAll": "explicit"
   },
   "editor.formatOnSave": true,
-  "C_Cpp.clang_format_style": "file",
-  "[c]": {
-    "editor.defaultFormatter": "ms-vscode.cpptools"
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.glyphMargin": false,
