@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    "dzhavat.bracket-pair-toggler",
     "Vue.volar",
     "octref.vetur",
     "rangav.vscode-thunder-client",
