@@ -4,13 +4,6 @@
     "source.fixAll": "explicit"
   },
   "editor.formatOnSave": true,
-  "[go]": {
-    "editor.defaultFormatter": "golang.go"
-  },
-  "[go.mod]": {
-    "editor.defaultFormatter": "golang.go"
-  },
-  "go.formatTool": "goimports",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.glyphMargin": false,
   "editor.folding": false,
