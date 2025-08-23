@@ -1,1 +1,1 @@
-## simple testimonial box
+## simple timer
